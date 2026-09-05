@@ -1,1 +1,1 @@
-Sitemap: https://your-website-url.example.com/sitemap.xml
+Sitemap: https://msaif525.github.io/guideline-for-publish-ebook/sitemap.xml
